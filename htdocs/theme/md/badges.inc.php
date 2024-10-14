@@ -270,7 +270,7 @@ function _createStatusBadgeCss($statusName, $statusVarNamePrefix = '', $commentL
 			$thisBadgeTextColor = '#999999';
 		}
 		if (in_array((string) $statusName, array('6'))) {
-			$thisBadgeTextColor = '#777777';
+			$thisBadgeTextColor = '#ffffff';
 		}
 
 		// badge-statusX
