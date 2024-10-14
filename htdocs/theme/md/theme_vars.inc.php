@@ -101,16 +101,17 @@ $colorblind_deuteranopes_badgeDanger    = $badgeDanger; // currently not tested 
 *  TODO: use color definition vars above for define badges color status X -> example $badgeStatusValidate, $badgeStatusClosed, $badgeStatusActive ....
 */
 $badgeStatus0 = '#cbd3d3'; // draft
-$badgeStatus1 = '#bc9526'; // validated
-$badgeStatus1b = '#bc9526'; // validated
-$badgeStatus2 = '#e6f0f0'; // approved
+$badgeStatus1 = '#d21e56'; // validated
+$badgeStatus1b = '#d21e56'; // validated
+$badgeStatus2 = '#9c9c26'; // approved
 $badgeStatus3 = '#bca52b';
-$badgeStatus4 = '#25a580'; // Color ok
-$badgeStatus4b = '#25a580'; // Color ok
+$badgeStatus4 = '#425674'; // Color ok
+$badgeStatus4b = '#425674'; // Color ok
 $badgeStatus5 = '#cad2d2';
-$badgeStatus6 = '#cad2d2';
-$badgeStatus7 = '#277d1e';
-$badgeStatus8 = '#993013';
+$badgeStatus6 = '#28a745';
+$badgeStatus7 = '#25a580';
+//$badgeStatus8 = '#993013';
+$badgeStatus8 = '#ffc107'; // AR29 in process
 $badgeStatus9 = '#e7f0f0';
 $badgeStatus10 = '#993013';
 $badgeStatus11 = '#15a540';
