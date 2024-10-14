@@ -4822,6 +4822,8 @@ input.liste_titre {
 .noborder tr.liste_total td, tr.liste_total td, form.liste_total div, .noborder tr.liste_total_wrap td, tr.liste_total_wrap td, form.liste_total_wrap div {
 	color: #332266;
 	/* padding: 4px; */
+	font-weight:bold;
+	background-color:#ffe082 !important;
 }
 .noborder tr.liste_total td, tr.liste_total td, form.liste_total div {
 	white-space: nowrap;
